@@ -11,6 +11,8 @@
 !CREDITS
 !images
 !INSTALL
+webjars
+SecureAuth3
 !LICENSE
 !ReadMe
 !res
