@@ -60810,7 +60810,6 @@ http%3a%2f%2fwww
 http.auth.lib
 http/httpd.conf
 http404
-http://docs.oasis-open.org/ns/cmis/link/200908/acl
 http_access.log
 HTTP_BAD_GATEWAY
 HTTP_BAD_REQUEST
@@ -60891,7 +60890,6 @@ HttpRequestBaseExtensions
 HttpRequestSecurity
 HttpResponse
 https
-https://api.w.org/
 httpsdocs
 httpServer
 HttpSession
